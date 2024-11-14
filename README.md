@@ -20,10 +20,11 @@ https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 - Power Automate Integration: Sends alerts when key metrics are met, enhancing proactive decision-making.
 
 ## Project Files
-`Sales.CSV` - The Fact Transaction data.
-`Customes.CSV` - The Dimensional Customer data.
-`SuperStore RFM Analysis.sql`  - Microsoft SQL Server Query File for the RFM analysis.
-`SuperStore.pbix` - Power Bi Dashboard for the insights and analysis.
+- `Sales.CSV` - The Fact Transaction data.
+- `Customes.CSV` - The Dimensional Customer data.
+- `SuperStore RFM Analysis.sql`  - Microsoft SQL Server Query File for the RFM analysis.
+- `SuperStore.pbix` - Power Bi Dashboard for the insights and analysis.
+- `README.md` - This document.
 
 ## Key Insights
 - Top Customers and most profitable products identified to focus marketing efforts.
