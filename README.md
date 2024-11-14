@@ -4,6 +4,10 @@ This project is a Power BI report analyzing sales data from a Super Store datase
 ## Overview
 The report provides key insights into sales, profit, customer distribution, and product performance, focusing on identifying high-value customers and best-selling products. To make this analysis efficient and maintainable, I implemented several automation techniques, from data refresh to user-driven interactivity.
 
+## Data Sources
+This dataset is by Kaggle:
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+
 ## Tools & Process
 - Data Preparation: Cleaned data in Excel and SSIS, loaded into SQL Server.
 - Data Transformation: Applied Power Query transformations and created custom tables for additional insights (e.g., day names, complete location).
